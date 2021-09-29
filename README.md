@@ -15,6 +15,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/ind
 #EXT#INF:-1 tvg-logo="https://images.app.goo.gl/2jjZxcSXwTHxPvPV7"
 group-title="ESPN",ESPN
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
+#EXT#INF:-1 tvg-logo="https://images.app.goo.gl/JPFzGSmeX821iAPYA"
+group-title="FOX SPORT",FOX SPORT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
 
 
