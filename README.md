@@ -8,7 +8,7 @@ group-title="GLOBO SP",GLOBO SP
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 #EXT#INF:-1 tvg-logo="https://images.app.goo.gl/Vhi7uz3ezrnJPWTo6"
 group-title="Fazenda Record",A FAZENDA 
-https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_1000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
 #EXT#INF:-1 tvg-logo="https://images.app.goo.gl/xGh9E2nxc5mXrW9k8"
 group-title="PREMIERE",PREMIERE
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
