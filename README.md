@@ -24,3 +24,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs
 #EXT#INF:-1 tvg-logo="https://images.app.goo.gl/gSkmHWe1163eYQMU7"
 group-title="RECORD",RECORD 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXT#INF:-1 tvg-logo="https://images.app.goo.gl/CmP7xMzsju5rcPY5A"
+group-title="BAND",BAND
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w415282524.m3u8
