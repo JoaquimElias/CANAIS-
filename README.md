@@ -25,5 +25,5 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs
 group-title="RECORD",RECORD 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXT#INF:-1 tvg-logo="https://images.app.goo.gl/CmP7xMzsju5rcPY5A"
-group-title="ESPN SPORT",ESPN SPORT
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+group-title="Meio norte",meio norte
+https://webradio.amsolution.com.br/radio/8280/meionorte
